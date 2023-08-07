@@ -1,0 +1,18 @@
+total 64
+drwxrwxr-x 2 tekna tekna 4096 غشت     7 09:32 .
+drwxrwxr-x 6 tekna tekna 4096 غشت     7 07:46 ..
+-rwxrwxr-x 1 tekna tekna   32 غشت     7 07:46 0-hello_world
+-rwxrwxr-x 1 tekna tekna   28 غشت     7 07:46 1-confused_smiley
+-rwxrwxr-x 1 tekna tekna   28 غشت     7 07:46 2-hellofile
+-rwxrwxr-x 1 tekna tekna   41 غشت     7 07:46 3-twofiles
+-rwxrw-r-- 1 tekna tekna   29 غشت     7 07:50 4-lastlines
+-rwxrw-r-- 1 tekna tekna   29 غشت     7 07:57 5-firstlines
+-rwxrw-r-- 1 tekna tekna   36 غشت     7 08:01 6-third_line
+-rwxrw-r-- 1 tekna tekna   77 غشت     7 09:15 #7-file#
+-rwxrw-r-- 1 tekna tekna   74 غشت     7 09:10 7-file
+-rwxrw-r-- 1 tekna tekna   72 غشت     7 09:04 7-file~
+-rw-rw-r-- 1 tekna tekna   12 غشت     7 09:30 #8-cwd_state#
+-rwxrw-r-- 1 tekna tekna   37 غشت     7 09:32 8-cwd_state
+-rwxrw-r-- 1 tekna tekna   38 غشت     7 09:31 8-cwd_state~
+-rw-rw-r-- 1 tekna tekna    0 غشت     7 09:32 ls_cwd_content
+-rw-rw-r-- 1 tekna tekna  428 غشت     7 08:04 README.md
